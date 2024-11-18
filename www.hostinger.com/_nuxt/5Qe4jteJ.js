@@ -1,0 +1,1 @@
+import{Q as t,R as a}from"./nhyV104j.js";const s={url:"/api",async isSalesAgentAvailable(){return await t(a.get(`${this.url}/sales-agents-availability`))},async getCareerPositions(){return await t(a.get(`${this.url}/get-career-posting-list`))}};export{s as c};

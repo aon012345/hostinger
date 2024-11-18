@@ -1,0 +1,1 @@
+import{d as o,u as t,o as a,h as n,A as _,k as r,_ as c}from"./nhyV104j.js";const d=["dir"],p=o({__name:"HSimpleBadge",setup(i){const{direction:e}=t();return(s,l)=>(a(),n("span",{class:"h-simple-badge t-h3",dir:r(e)},[_(s.$slots,"default",{},void 0,!0)],8,d))}}),u=c(p,[["__scopeId","data-v-2575759e"]]);export{u as _};

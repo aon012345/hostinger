@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.hostinger.com	TRUE	/	FALSE	1999999999	__cflb	02DiuJ9sKpLvEtFs6MWBpADVpUA2TUmfhb3KjgZvSa4Z2
+www.hostinger.com	TRUE	/	FALSE	1999999999	SameSite	None
+
